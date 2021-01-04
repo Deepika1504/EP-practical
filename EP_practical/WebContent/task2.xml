@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students_info SYSTEM "task2.dtd">
+<students_info>
+	<student sid="a">
+		<regno>1700</regno>
+		<name>DEEPAK</name>
+		<avg>92</avg>
+		<dob>15-04-2001</dob>
+		<time>3:55</time>
+		<mobileno>944899956</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="b">
+		<regno>1701</regno>
+		<name>DEEPIKA</name>
+		<avg>96</avg>
+		<dob>11-08-2001</dob>
+		<time>2:45</time>
+		<mobileno>9448998976</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="c">
+		<regno>1702</regno>
+		<name>ELENA</name>
+		<avg>88</avg>
+		<dob>15-02-2002</dob>
+		<time>3:00</time>
+		<mobileno>9765845634</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="d">
+		<regno>1703</regno>
+		<name>KARAN</name>
+		<avg>87</avg>
+		<dob>04-04-2002</dob>
+		<time>9:00</time>
+		<mobileno>7674883234</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="e">
+		<regno>1704</regno>
+		<name>PRAJAKTHA</name>
+		<avg>75</avg>
+		<dob>25-04-2001</dob>
+		<time>6:30</time>
+		<mobileno>9849553757</mobileno>
+		<distinction>YES</distinction>
+	</student>
+	<student sid="f">
+		<regno>1705</regno>
+		<name>ROHITH</name>
+		<avg>78</avg>
+		<dob>16-11-2001</dob>
+		<time>5:00</time>
+		<mobileno>9440447009</mobileno>
+		<distinction>YES</distinction>
+	</student>
+</students_info>
